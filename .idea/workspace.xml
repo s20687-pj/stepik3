@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97882a11-09b8-48da-b997-1bc7d5b92bf5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="95" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDpr2gAbq1mgumISdO843TMAUW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../POJ-3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\PJATK\POJ-4\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MovablePointTest2">
+    <configuration name="Garfield" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie53.Garfield" />
+      <module name="POJ-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadanie53.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfejsy.RomanNumeral" />
+      <module name="POJ-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfejsy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovablePointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POJ-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MovablePointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovablePointTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POJ-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MovablePointTest2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="POJ-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MovablePointTest2" />
+        <item itemvalue="Application.Garfield" />
+        <item itemvalue="JUnit.RomanNumeralsTest" />
+        <item itemvalue="Application.RomanNumeral" />
+        <item itemvalue="JUnit.MovablePointTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97882a11-09b8-48da-b997-1bc7d5b92bf5" name="Default Changelist" comment="" />
+      <created>1586280213469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586280213469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Project_Structure" timestamp="1586373671402">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586373671402" />
+    <state x="254" y="85" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586291158592">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586291158592" />
+    <state x="580" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586942650836">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586942650836" />
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1586944437976">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586944437976" />
+    <state x="546" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586954355193">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="546" y="355" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586954355193" />
+    <state x="596" y="289" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586942760877">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="289" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586942760877" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1587804327743">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1587804327743" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1586982510603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586982510603" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1586982510603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586982510603" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1586982510603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586982510603" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1586982510603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586982510603" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1586982510604">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586982510604" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1586982510604">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586982510604" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1586982510604">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586982510604" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1586982510604">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586982510604" />
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog" timestamp="1586880550429">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="330" y="85" key="Maven.ArtifactSearchDialog/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586880550429" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1586291255971">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860/-1920.-372.1920.1040@0.0.1600.860" timestamp="1586291255971" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/MovablePointTest2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/POJ_4$MovablePointTest.ic" NAME="MovablePointTest Coverage Results" MODIFIED="1586879156641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/POJ_4$RomanNumeralsTest.ic" NAME="RomanNumeralsTest Coverage Results" MODIFIED="1586894721258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/POJ_4$MovablePointTest_test_getX.ic" NAME="MovablePointTest.test_getX Coverage Results" MODIFIED="1586879146595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
